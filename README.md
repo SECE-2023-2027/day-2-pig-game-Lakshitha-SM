@@ -30,7 +30,7 @@ These games are great beginner projects that demonstrate basic JavaScript logic,
 ### 🔢 1. Guess the Number
 
 **Objective:**  
-Try to guess the secret number randomly generated between **1 and 100**.
+Try to guess the secret number randomly generated between **1 and 20**.
 
 **Features:**
 - Input field to enter your guess
