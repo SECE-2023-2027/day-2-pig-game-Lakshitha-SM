@@ -28,8 +28,6 @@ let scores, currentScore, activePlayer, playing;
   }
 });
 
-btnHold.addEventListener('click', function () {
-  if (!playing) return;
 
   scores[activePlayer] += currentScore;
   document.getElementById(`score--${activePlayer}`).textContent = scores[activePlayer];
